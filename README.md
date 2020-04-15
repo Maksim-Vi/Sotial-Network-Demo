@@ -1,6 +1,6 @@
 # Sotial-Network-Demo
 
-# if you dont have node.js npm or yarn please install
+# if you don't have node.js npm or yarn please install
 1) node.js - https://nodejs.org/en/
 2) npm - npm -v (check your npm version)
 3) yarn - npm install yarn
