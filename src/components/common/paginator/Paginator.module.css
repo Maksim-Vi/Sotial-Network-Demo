@@ -1,0 +1,15 @@
+.PagesContainer{
+    text-align: center;
+    margin: 30px;
+}
+
+.PagesCursor{
+    display: inline;
+    padding: 0.5%;
+    cursor: pointer;
+}
+
+.Pages {
+    font-weight: bold;
+    cursor: pointer;
+}

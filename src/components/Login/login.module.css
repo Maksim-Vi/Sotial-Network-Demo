@@ -1,0 +1,15 @@
+.HeaderLog{
+    text-align: center; 
+}
+
+.testLink { 
+    text-decoration: none; /* Отменяем подчеркивание у ссылки */
+    color: black;
+    font-size: 40px;
+} 
+
+.formSummeryError{
+    border: solid 1px red;
+    padding: 5px;
+    color: red;
+}

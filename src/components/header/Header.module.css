@@ -1,0 +1,34 @@
+.header{
+  grid-area: header;
+  background-color:royalblue;
+  margin: 0;
+}
+  
+.header img {
+  max-width: 100%;
+  width: 40px;
+  position:absolute;
+  top:0;
+}
+
+.lodinBlock{
+  float: right;
+  margin: -12px 20px;
+}
+
+.lodinBlock a {
+  color: black;
+  text-decoration: none;
+}
+
+.logout{
+  margin-left: 5px;
+  background-color: white;
+  color: black;
+  border: 2px solid #555555;
+}
+
+.logout:hover {
+  background-color: #555555;
+  color: white;
+}

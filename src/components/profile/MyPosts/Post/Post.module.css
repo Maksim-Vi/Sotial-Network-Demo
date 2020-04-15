@@ -1,0 +1,17 @@
+.item {
+  color: rgb(49, 49, 49);
+}
+
+.item p{
+  position: relative;
+  left: 50px;
+
+}
+
+.item img {
+  position: absolute;
+  width: 25px;
+  height: 25px;
+  border-radius: 50%;
+
+}

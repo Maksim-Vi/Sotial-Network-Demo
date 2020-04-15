@@ -1,0 +1,39 @@
+.dialogs{
+    display: grid;
+    grid-template-columns: 1fr 2fr;
+    grid-gap: 10px;
+}
+
+.chats{
+    padding: 20px;
+}
+
+.chats a{
+    text-decoration: none;
+    color: black;
+}
+
+.messages {
+    padding: 20px;
+}
+
+.Form {
+    margin-top: 5%;
+   
+}
+
+.FormField{
+    width: 400px;
+    height: 20px;
+}
+
+.buttonSend {
+    margin-top: 1%;
+}
+
+.buttonSend button{
+    margin-left: 10%;
+    height:30px;
+    width:280px;
+    text-align:center;
+}

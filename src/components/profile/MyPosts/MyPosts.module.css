@@ -1,0 +1,15 @@
+.item {
+  color: rgb(49, 49, 49);
+  margin-top: 10px;
+}
+
+.item img {
+  width: 25px;
+  height: 25px;
+  border-radius: 50%;
+  border: 3px solid #95e1d3;
+}
+
+.MyPostsBlock {
+  margin-left: 20%;
+}
