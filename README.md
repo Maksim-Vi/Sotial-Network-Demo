@@ -1,5 +1,7 @@
 # Sotial-Network-Demo
 
+первый учебный проект.
+
 test account:
 
 Email: 
